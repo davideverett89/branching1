@@ -7,6 +7,14 @@ body {
     background-color: beige;
 }
 
+.title {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: bisque;
+    border: solid orange;
+    padding: 40px;
+    margin: 0 auto;
+}
+
 button {
     margin: 40px;
     padding: 10px;
