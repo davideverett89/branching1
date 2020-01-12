@@ -21,7 +21,6 @@ button {
 }
 
 .new-class {
-    font-style: italic;
-    color: red;
-    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3em;
 }
