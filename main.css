@@ -1,6 +1,27 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    width: 75%;
+    margin-top: 100px;
+    margin: 0 auto;
+    border: solid;
     text-align: center;
+}
+
+button {
+    margin: 40px;
+    padding: 10px;
+}
+
+.first-div {
+    display: block;
+    height: 50px;
+    width: 300px;
+    margin-top: 30px;
+    margin: 0 auto;
+}
+
+.new-class {
+    font-style: italic;
     color: red;
-    letter-spacing: 1em;
+    font-size: large;
 }
